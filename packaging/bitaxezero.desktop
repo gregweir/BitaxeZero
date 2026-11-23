@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=BitaxeZero
+Comment=Bitaxe miner monitor for the Cardputer Zero
+Exec=/usr/bin/bitaxezero
+Icon=share/images/bitaxezero.png
+Terminal=false
+Categories=Utility;
+StartupNotify=false

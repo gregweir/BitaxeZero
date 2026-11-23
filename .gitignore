@@ -1,0 +1,6 @@
+build*/
+.superpowers/
+docs/superpowers/
+.cache/
+*.deb
+__pycache__/
